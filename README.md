@@ -21,4 +21,4 @@ The Natours website allows users to:
 - Search and filter tours by location, duration, price, and rating.
 - Create an account and login.
 
-The Natours API can be used for storing users and tours. Find the complete documentation [here] (https://documenter.getpostman.com/view/23552536/2s93Y3tfNd).
+The Natours API can be used for storing users and tours. Find the complete documentation [here](https://documenter.getpostman.com/view/23552536/2s93Y3tfNd).
