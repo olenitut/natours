@@ -2,7 +2,6 @@
 
 This project is a website for a fictional travel company called Natours, which offers adventure tours in various locations around the world.
 
-FIND THE DEMO [HERE](https://natours-production-efab.up.railway.app/)
 
 # Technologies
 
